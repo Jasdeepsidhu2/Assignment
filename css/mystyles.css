@@ -1,0 +1,196 @@
+ /*   Sophisticated CSS*/
+   
+     .sophis-title
+    {
+        font-family: 'Vast Shadow';
+        background: #80808061;
+        /* margin: 0 auto; */
+        text-align: center;
+        padding: 10px;
+        
+    }
+    .sophis-main
+    {
+        font-family: 'Oswald', sans-serif;
+        font-size: 20px;
+        background: #f5c06ed6;
+        /* margin: 0 auto; */
+        padding: 20px;
+    }
+    .sophis-links
+    {
+        padding: 10px;
+        background:#80808061;
+        text-align: center;
+     }
+    .sophis-button{
+            background: #f5c06ed6;
+            font-family: 'Vast Shadow'
+    }
+    .sophis-a
+    {
+        margin: 20px;
+        background:rgba(245, 130, 28, 0.6);
+    }
+
+/* Energetic CSS */
+    
+   
+    
+    .energetic-title
+    {
+        font-family: 'Alegreya', serif;
+        /* font-size: 15px; */
+        text-align: center;
+        background: rgba(47, 255, 130, 0.47);
+        /* margin: 0 auto;
+        width: 90%; */
+        letter-spacing: 5px;
+        color: #ff6a00eb;
+        padding: 10px;
+             
+
+    }
+    .energetic-main{
+        font-family: 'Alegreya', serif;
+        font-size: 25px;
+        color:  #ff6a00eb;
+        /* margin: 0 auto; */
+        /* width: 90%; */
+        padding: 20px;;
+
+    }
+    .energetic-links {
+        background: rgba(47, 255, 130, 0.47);
+        text-align: center;
+    }
+    .energetic-button{
+        
+        background-color: #ff6a00eb;
+        font-family: 'Alegreya', serif;
+        font-style:bold;
+        color:white;
+        font-size: 20px;
+
+    }
+    .energetic-a{
+        background: #1d130526;
+    }
+    .energetic-button:hover {
+        background-color: #4CAF50; /* Green */
+        
+    }
+    button{border-radius: 12px;
+            /* size:20px;    */
+            width: 230px;  
+    
+    }
+
+/* Relaxed CSS */
+    .relaxed-title
+    {
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        text-align: center;
+        padding: 30px;
+        height: 200px; 
+        background-image: url("./../images/relaxed.jpg");
+        background-position: right top;
+        background-size: 100px 100px;
+        color: white;
+
+    }
+    .relaxed-title:hover{
+        color: #EE00F5;
+
+
+    }
+    .relaxed-main{
+        font-family: 'Source Sans Pro', sans-serif;
+        color: #2476BF;
+        padding: 10px;
+    }
+    
+    .relaxed-links{
+        text-align: center;
+
+    }
+    .relaxed-button{
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        padding: 10px;
+        background-color: #7DBCF5;
+        color: white;
+        border: 2px solid #2476BF;
+        
+    }
+    .relaxed-button:hover {
+        background-color: white;
+        color: #2476BF;
+        border: 2px solid  #2476BF; /* Green */
+    }
+
+    
+/* Corporate CSS */
+    .corporate-title
+    {
+        font-family: 'Cuprum', sans-serif;
+        text-align: center;
+        color: #2a569f;
+        background:  #ff4c2f59 url('./../images/business.jpg') no-repeat center  ;
+        background-size: 900px 300px;
+    }
+    
+    .corporate-main{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 20px;
+        /* background:#2fff8c36; */
+        padding: 20px;
+        color: #2a569f;
+        background: url("./../images/comp.jpg") no-repeat center ;
+        background-size: 250px 150px;
+     }
+    .corporate-links{
+        background: #ff4c2f59;
+        text-align: center;
+
+    }
+    .corporate-button{
+        font-family: 'Cuprum', sans-serif;
+        font-size: 20px;
+        background: #2a569f;
+        color:#ff4c2fed;
+    }
+    .corporate-button:hover{
+        color: white;
+    }
+/* Fun CSS */
+    .fun-title
+    {
+        font-family: 'Ruslan Display', cursive;
+        font-size:20px;
+        text-align: center;
+        background: url('./../images/fun.jpg') no-repeat;
+        color: red;
+    }
+    .fun-main{
+        font-family: 'Gamja Flower', cursive;
+        font-size: 25px;
+        background: url('./../images/fun.jpg') no-repeat right ;
+        padding: 20px;
+     
+    }
+    .fun-links{
+        text-align: center;
+    }
+    .fun-button{
+        font-family: 'Gamja Flower', cursive;
+        font-size: 25px;
+        box-shadow: 5px 5px #fbe805;
+    }
+    .fun-button:hover{
+    background: #0523fb94;
+    color: white;
+    }
+
+   
